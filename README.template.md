@@ -1,16 +1,18 @@
-# Nome do projeto
+# CrudRestApp
 
-Descrição resumida sobre o projeto.
+Aplicação Rest utilizando Java 8,Spring Boot 1.5.10.RELEASE e Angular 5.2.0
 
 ## Instalação
-Linux & Windows
-```sh
-npm install
-npm buid
-```
-## Configuração
-Descreva aqui as configurações necessárias para o seu projeto funcionar.
-## Meta
-Seu Nome – [Nome Completo](https://www.linkedin.com/in/...) – email@host.com
+Este projeto foi desenvolvido com Angular CLI: 1.7.2
 
-Distribuído sob a licença `Tipo da licença`. Veja `LICENSE` para mais informações.
+Execute ng serve para abrir o servidor Angular. Navegue até http://localhost:4200/
+A aplicação atualizará automaticamente cada vez que ocorrer qualquer alteração
+no source files.
+
+## Configuração
+
+Para ser executado é necessario ter previamente instalado: Node.js ,Angular , SpringBoot e Tomcat.
+
+## Meta
+Jose Orlando Araujo Junior – joseorlandojr1@gmail.com
+
